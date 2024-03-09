@@ -5,6 +5,7 @@ To fit poisson distribution for the arrival of objects per minute from the feede
 
 ### Software required :  
 Python and Visual component tool
+
 ### Theory:
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
 
@@ -25,8 +26,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 ### Program :
-## NAME : SUBBIAH S
-## REGISTER NUMBER : 212223220111
+## NAME : SUBBIAH S ## REGISTER NUMBER : 212223220111
+
 ```
 import numpy as np
 import math
